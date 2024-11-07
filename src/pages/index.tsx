@@ -7,7 +7,7 @@ import styles from '@/styles/Home.module.css'
 const Navbar = dynamic(() => import('../components/Navbar'), {
   ssr: false, // Disable server-side rendering
 });
-import HomeP from '../components/home'
+import HomeP from '../components/Home'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {

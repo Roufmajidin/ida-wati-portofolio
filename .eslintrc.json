@@ -1,5 +1,5 @@
 {
-  "import/no-extraneous-dependencies": ["error",  {"devDependencies": true}],
+  // "import/no-extraneous-dependencies": ["error",  {"devDependencies": true}],
   "extends": "next/core-web-vitals",
   "react/no-unescaped-entities": 0
 }
