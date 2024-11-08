@@ -21,13 +21,13 @@ const Project = ()=>{
                         <div className="col-lg-4">
                             <div className="text-container">
                                 <div className="image-container">
-                                    <a href="project.https://github.com/IdaWati15/penilaian_karyawan">
+                                    <a href="https://github.com/IdaWati15/penilaian_karyawan">
                                         <img className="img-fluid" src="images/pr-1.jpg" alt="alternative" />
                                     </a>
                                 </div> {/* end of image-container */}
                                 <p>SISTEM PENUNJANG KEPUTUSAN PENILAIAN KINERJA MENGGUNAKAN METODE FUZZY MAMDANI UNTUK MENENTUKAN STATUS KARYAWAN (STUDI KASUS : PTP TERMINAL NONPETIKEMAS BRANCH CIREBON)</p>
                                <hr></hr>
-                                 <strong>Project:</strong> Skripsi/Tesis <a className="blue" href="project.https://github.com/IdaWati15/penilaian_karyawan">Github</a>
+                                 <strong>Project:</strong> Skripsi/Tesis <a className="blue" href="https://github.com/IdaWati15/penilaian_karyawan">Github</a>
                             </div> {/* end of text-container */}
                         </div> {/* end of col */}
                         <div className="col-lg-4">
