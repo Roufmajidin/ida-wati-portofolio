@@ -6,15 +6,15 @@ const About = ()=>{
         <header id="header" className="header">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-6">
-                            <div className="text-container">
-                                <h1 className="h1-large">Ida Wati</h1>
+                        <div className="col-lg-8 mx-auto">
+                            <div className="text-container text-center">
+                                <h1 className="h1-large">IDA WATI</h1>
                                 <p style={{ color: "white" }}>
                                 Sebagai lulusan S1 Sistem Informasi dari Universitas Catur Insan Cendekia, saya memiliki pengetahuan dan minat tinggi untuk berkarir di bidang teknologi, data entry, UI/UX Designer, mampu mengoperasikan microsoft word dan microsoft excel. Saya memiliki sifat pantang menyerah, terus belajar hal-hal baru dan mudah beradaptasi dengan lingkungan dan saya siap untuk memberikan kontribusi positif dalam tim dengan fokus pada tujuan perusahaan
                                 </p>
                                 
-                                <a className="btn-solid-lg page-scroll" href="#about">About me</a>
-                                <a className="btn-outline-lg page-scroll" href="linkedin.com/in/ida-wati-2235a325b"><i className="fas fa-user" />Linkedin</a>
+                                <a className="btn-solid-lg page-scroll" href="#about" style={{ borderRadius: "10px" }} >About me</a>
+                                <a className="btn-outline-lg page-scroll" href="https://linkedin.com/in/ida-wati-2235a325b"><i className="fas fa-user" />Linkedin</a>
                             </div> {/* end of text-container */}
                         </div> {/* end of col */}
                     </div> {/* end of row */}
@@ -26,7 +26,7 @@ const About = ()=>{
                     <div className="row">
                         <div className="col-lg-4">
                             <div className="text-container first">
-                                <h2>Hallo Ida Wati</h2>
+                                <h2>Ida Wati</h2>
                                 <p>
                                 Sebagai lulusan S1 Sistem Informasi dari Universitas Catur Insan Cendekia, saya memiliki pengetahuan dan minat tinggi untuk berkarir di bidang teknologi, data entry, UI/UX Designer, mampu mengoperasikan microsoft word dan microsoft excel. Saya memiliki sifat pantang menyerah, terus belajar hal-hal baru dan mudah beradaptasi dengan lingkungan dan saya siap untuk memberikan kontribusi positif dalam tim dengan fokus pada tujuan perusahaan
 
