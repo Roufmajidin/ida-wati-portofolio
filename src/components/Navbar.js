@@ -17,13 +17,13 @@ const Navbar = () => {
                                 <a className="nav-link page-scroll" href="#header">Home <span className="sr-only">(current)</span></a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link page-scroll" href="#about">About</a>
+                                <a className="nav-link page-scroll" href="#about">Tentang Saya</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link page-scroll" href="#exp">Experiences</a>
+                                <a className="nav-link page-scroll" href="#exp">Pengalaman</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link page-scroll" href="#projects">Project</a>
+                                <a className="nav-link page-scroll" href="#projects">Projek</a>
                             </li>
                             {/* <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Drop</a>

@@ -37,7 +37,7 @@ const Project = ()=>{
                                         <img className="img-fluid" src="images/pr-2.jpg" alt="alternative" />
                                     </a>
                                 </div> {/* end of image-container */}
-                                <p>wisata_cirebon_Kelompok2_UAS-PIL</p>
+                                <p>APLIKASI REKOMENDASI WISATA CIREBON TUGAS KELOMPOK UAS </p>
                             <hr></hr>
                                  <strong>Project:</strong> Project Semester 6 kuliah <a className="blue" href="https://github.com/IdaWati15/wisata_cirebon_Kelompok2_UAS-PIL">Github</a>
                             </div> {/* end of text-container */}
