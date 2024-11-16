@@ -9,13 +9,13 @@ const Skill = ()=>{
                             <div className="col-lg-12">
                                 {/* Text Container */}
                                 <div className="text-container">
-                                    <h2>My Experiences</h2>
+                                    <h2>Pengalaman</h2>
                                     <p> Kemampuan Komputasi (Ms. Word, Excel, PowerPoint), Figma (Desain UI/UX), Analisis dan Desain Sistem, Canva (Desain Grafis), Kemampuan Personal (Komunikatif, Teliti, Kemampuan Analisis, Kerjasama Tim)
                                     </p>
                                     <h5>DESIGN TOOLS</h5>
-                                    <p>My favorite design tools Figma</p>
+                                    <p>Figma, Trello, Miro, Canva</p>
                                     <h5>DEVELOPMENT SKILLS</h5>
-                                    <p>Laravel Framework, MATLAB for Analytic data scince</p>
+                                    <p>Laravel Framework, MATLAB for Analytic Data Science</p>
                                     <div className="icons-container">
                                         <img src="images/lar.png" alt="alternative" />
                                         <img src="images/matlab.png" alt="alternative" />
