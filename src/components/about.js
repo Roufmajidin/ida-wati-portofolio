@@ -14,7 +14,7 @@ const About = ()=>{
                                 </p>
                                 
                                 <a className="btn-solid-lg page-scroll" href="#about" style={{ borderRadius: "10px" }} >About me</a>
-                                <a className="btn-outline-lg page-scroll" href="https://linkedin.com/in/ida-wati-2235a325b"><i className="fas fa-user" />Linkedin</a>
+                                <a className="btn-outline-lg page-scroll" href="https://medium.com/@idaw9765"><i className="fas fa-user" />Medium</a>
                             </div> {/* end of text-container */}
                         </div> {/* end of col */}
                     </div> {/* end of row */}
