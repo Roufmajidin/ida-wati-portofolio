@@ -7,8 +7,8 @@ const Project = ()=>{
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
-                            <h2 className="h2-heading">My projects</h2>
-                            <p className="p-heading">Beberapa Projek selama kegiatan Kuliah, big thx</p>
+                            <h2 className="h2-heading">Projek Saya Test</h2>
+                            <p className="p-heading">Beberapa Projek Selama Perkuliahan</p>
                         </div> {/* end of col */}
                     </div> {/* end of row */}
                    
