@@ -7,7 +7,7 @@ const Project = ()=>{
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
-                            <h2 className="h2-heading">ya jangan test atuh</h2>
+                            <h2 className="h2-heading">Projek</h2>
                             <p className="p-heading">Beberapa Projek Selama Perkuliahan</p>
                         </div> {/* end of col */}
                     </div> {/* end of row */}
@@ -49,9 +49,9 @@ const Project = ()=>{
                                         <img className="img-fluid" src="images/pr-2.jpg" alt="alternative" />
                                     </a>
                                 </div> {/* end of image-container */}
-                                <p>wisata_cirebon_Kelompok2_UAS-PIL</p>
+                                <p>TASK MANAGEMENT APP</p>
                             <hr></hr>
-                                 <strong>Project:</strong> Project Semester 6 kuliah <a className="blue" href="https://github.com/IdaWati15/wisata_cirebon_Kelompok2_UAS-PIL">Github</a>
+                                 <strong>Project:</strong> Project Semester 5 kuliah <a className="blue" href="https://github.com/IdaWati15/task_management_app">Github</a>
                             </div> {/* end of text-container */}
                         </div>
                        
