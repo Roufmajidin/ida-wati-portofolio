@@ -63,7 +63,7 @@ const About = () => {
               <div className="text-container text-center">
                 <h1 className="h1-large">IDA WATI</h1>
                 <p style={{ color: "white" }}>
-                  Sebagai lulusan S1 Sistem Informasi dari Universitas Catur Insan Cendekia dengan gelar S.kom. Saya memiliki pengetahuan dan minat tinggi untuk berkarir di bidang teknologi, administrasi, data entry, business analyst, UI/UX Designer, dan mampu mengoperasikan microsoft word, microsoft powerpoint dan microsoft excel. Saya memiliki sifat pantang menyerah, ingin terus belajar hal-hal baru dan mudah beradaptasi dengan lingkungan dan saya siap untuk memberikan kontribusi positif dalam tim dengan fokus pada tujuan perusahaan....
+                  Sebagai lulusan S1 Sistem Informasi dari Universitas Catur Insan Cendekia dengan gelar S.kom. Saya memiliki pengetahuan dan minat tinggi untuk berkarir di bidang teknologi, administrasi, data entry, business analyst, UI/UX Designer, dan mampu mengoperasikan microsoft word, microsoft powerpoint dan microsoft excel. Saya memiliki sifat pantang menyerah, ingin terus belajar hal-hal baru dan mudah beradaptasi dengan lingkungan dan saya siap untuk memberikan kontribusi positif dalam tim dengan fokus pada tujuan perusahaan.
                 </p>
                 <a className="btn-solid-lg page-scroll" href="#about" style={{ borderRadius: "10px" }}>
                   About me
