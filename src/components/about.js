@@ -68,9 +68,10 @@ const About = () => {
                 <a className="btn-solid-lg page-scroll" href="#about" style={{ borderRadius: "10px" }}>
                   About me
                 </a>
-                <a className="btn-outline-lg page-scroll" href="https://medium.com/@idaw9765">
-                  <i className="fas fa-user" /> Medium
+                <a className="btn-outline-lg page-scroll" href="https://www.linkedin.com/in/ida-wati-2235a325b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAZXh0bgNhZW0CMTEAAabFa4fMfbqebjc6tuztRbyDd9eJFJUlh83vp4KdQUyqaMpILMkizzqdxWw_aem_E96KoVjtExBAtPZqMT1TXw">
+                  <i className="fas fa-user" /> Linkedin
                 </a>
+                
               </div>
             </div>
           </div>
